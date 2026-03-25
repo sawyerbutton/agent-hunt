@@ -36,8 +36,9 @@ class Settings(BaseSettings):
     def redis_url(self) -> str:
         return f"redis://{self.redis_host}:{self.redis_port}/{self.redis_db}"
 
-    # --- Claude API ---
-    anthropic_api_key: str = ""
+    # --- Gemini API (for JD parsing) ---
+    gemini_api_key: str = ""
+    gemini_model: str = "gemini-2.5-flash"
 
     # --- App ---
     debug: bool = False
