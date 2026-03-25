@@ -1,0 +1,352 @@
+[
+  {
+    "id": "python",
+    "canonical_name": "Python",
+    "category": "language",
+    "subcategory": null,
+    "aliases": [{"name": "python", "lang": "en"}, {"name": "Python3", "lang": "en"}]
+  },
+  {
+    "id": "typescript",
+    "canonical_name": "TypeScript",
+    "category": "language",
+    "subcategory": null,
+    "aliases": [{"name": "typescript", "lang": "en"}, {"name": "TS", "lang": "en"}]
+  },
+  {
+    "id": "javascript",
+    "canonical_name": "JavaScript",
+    "category": "language",
+    "subcategory": null,
+    "aliases": [{"name": "javascript", "lang": "en"}, {"name": "JS", "lang": "en"}]
+  },
+  {
+    "id": "golang",
+    "canonical_name": "Go",
+    "category": "language",
+    "subcategory": null,
+    "aliases": [{"name": "golang", "lang": "en"}, {"name": "Go", "lang": "en"}]
+  },
+  {
+    "id": "rust",
+    "canonical_name": "Rust",
+    "category": "language",
+    "subcategory": null,
+    "aliases": [{"name": "rust", "lang": "en"}]
+  },
+  {
+    "id": "langchain",
+    "canonical_name": "LangChain",
+    "category": "framework",
+    "subcategory": "agent_framework",
+    "aliases": [{"name": "langchain", "lang": "en"}, {"name": "朗链", "lang": "zh"}]
+  },
+  {
+    "id": "langgraph",
+    "canonical_name": "LangGraph",
+    "category": "framework",
+    "subcategory": "agent_framework",
+    "aliases": [{"name": "langgraph", "lang": "en"}]
+  },
+  {
+    "id": "llamaindex",
+    "canonical_name": "LlamaIndex",
+    "category": "framework",
+    "subcategory": "rag",
+    "aliases": [{"name": "llamaindex", "lang": "en"}, {"name": "llama_index", "lang": "en"}]
+  },
+  {
+    "id": "crewai",
+    "canonical_name": "CrewAI",
+    "category": "framework",
+    "subcategory": "agent_framework",
+    "aliases": [{"name": "crewai", "lang": "en"}, {"name": "crew.ai", "lang": "en"}]
+  },
+  {
+    "id": "autogen",
+    "canonical_name": "AutoGen",
+    "category": "framework",
+    "subcategory": "agent_framework",
+    "aliases": [{"name": "autogen", "lang": "en"}, {"name": "AG2", "lang": "en"}]
+  },
+  {
+    "id": "dify",
+    "canonical_name": "Dify",
+    "category": "framework",
+    "subcategory": "agent_platform",
+    "aliases": [{"name": "dify", "lang": "en"}]
+  },
+  {
+    "id": "coze",
+    "canonical_name": "Coze",
+    "category": "framework",
+    "subcategory": "agent_platform",
+    "aliases": [{"name": "coze", "lang": "en"}, {"name": "扣子", "lang": "zh"}]
+  },
+  {
+    "id": "openai_api",
+    "canonical_name": "OpenAI API",
+    "category": "tool",
+    "subcategory": "llm_provider",
+    "aliases": [{"name": "openai", "lang": "en"}, {"name": "gpt api", "lang": "en"}, {"name": "OpenAI接口", "lang": "zh"}]
+  },
+  {
+    "id": "anthropic_api",
+    "canonical_name": "Anthropic API",
+    "category": "tool",
+    "subcategory": "llm_provider",
+    "aliases": [{"name": "anthropic", "lang": "en"}, {"name": "claude api", "lang": "en"}]
+  },
+  {
+    "id": "llm",
+    "canonical_name": "Large Language Models",
+    "category": "concept",
+    "subcategory": "core_ai",
+    "aliases": [{"name": "llm", "lang": "en"}, {"name": "large language model", "lang": "en"}, {"name": "大语言模型", "lang": "zh"}, {"name": "大模型", "lang": "zh"}]
+  },
+  {
+    "id": "rag",
+    "canonical_name": "Retrieval-Augmented Generation",
+    "category": "concept",
+    "subcategory": "core_ai",
+    "aliases": [{"name": "rag", "lang": "en"}, {"name": "检索增强生成", "lang": "zh"}]
+  },
+  {
+    "id": "prompt_engineering",
+    "canonical_name": "Prompt Engineering",
+    "category": "concept",
+    "subcategory": "core_ai",
+    "aliases": [{"name": "prompt engineering", "lang": "en"}, {"name": "提示词工程", "lang": "zh"}, {"name": "提示工程", "lang": "zh"}]
+  },
+  {
+    "id": "agent_architecture",
+    "canonical_name": "Agent Architecture",
+    "category": "concept",
+    "subcategory": "core_ai",
+    "aliases": [{"name": "agent architecture", "lang": "en"}, {"name": "ai agent", "lang": "en"}, {"name": "智能体架构", "lang": "zh"}, {"name": "AI Agent", "lang": "zh"}]
+  },
+  {
+    "id": "function_calling",
+    "canonical_name": "Function Calling",
+    "category": "concept",
+    "subcategory": "core_ai",
+    "aliases": [{"name": "function calling", "lang": "en"}, {"name": "tool use", "lang": "en"}, {"name": "工具调用", "lang": "zh"}, {"name": "函数调用", "lang": "zh"}]
+  },
+  {
+    "id": "multi_agent",
+    "canonical_name": "Multi-Agent Systems",
+    "category": "concept",
+    "subcategory": "core_ai",
+    "aliases": [{"name": "multi-agent", "lang": "en"}, {"name": "multi agent system", "lang": "en"}, {"name": "多智能体", "lang": "zh"}, {"name": "多Agent系统", "lang": "zh"}]
+  },
+  {
+    "id": "fine_tuning",
+    "canonical_name": "Fine-tuning",
+    "category": "concept",
+    "subcategory": "ml",
+    "aliases": [{"name": "fine-tuning", "lang": "en"}, {"name": "finetuning", "lang": "en"}, {"name": "微调", "lang": "zh"}, {"name": "模型微调", "lang": "zh"}]
+  },
+  {
+    "id": "vector_database",
+    "canonical_name": "Vector Database",
+    "category": "tool",
+    "subcategory": "data_infra",
+    "aliases": [{"name": "vector database", "lang": "en"}, {"name": "vector db", "lang": "en"}, {"name": "向量数据库", "lang": "zh"}]
+  },
+  {
+    "id": "pinecone",
+    "canonical_name": "Pinecone",
+    "category": "tool",
+    "subcategory": "data_infra",
+    "aliases": [{"name": "pinecone", "lang": "en"}]
+  },
+  {
+    "id": "milvus",
+    "canonical_name": "Milvus",
+    "category": "tool",
+    "subcategory": "data_infra",
+    "aliases": [{"name": "milvus", "lang": "en"}]
+  },
+  {
+    "id": "chromadb",
+    "canonical_name": "ChromaDB",
+    "category": "tool",
+    "subcategory": "data_infra",
+    "aliases": [{"name": "chromadb", "lang": "en"}, {"name": "chroma", "lang": "en"}]
+  },
+  {
+    "id": "pgvector",
+    "canonical_name": "pgvector",
+    "category": "tool",
+    "subcategory": "data_infra",
+    "aliases": [{"name": "pgvector", "lang": "en"}]
+  },
+  {
+    "id": "docker",
+    "canonical_name": "Docker",
+    "category": "tool",
+    "subcategory": "devops",
+    "aliases": [{"name": "docker", "lang": "en"}, {"name": "容器化", "lang": "zh"}]
+  },
+  {
+    "id": "kubernetes",
+    "canonical_name": "Kubernetes",
+    "category": "tool",
+    "subcategory": "devops",
+    "aliases": [{"name": "kubernetes", "lang": "en"}, {"name": "k8s", "lang": "en"}]
+  },
+  {
+    "id": "fastapi",
+    "canonical_name": "FastAPI",
+    "category": "framework",
+    "subcategory": "web",
+    "aliases": [{"name": "fastapi", "lang": "en"}]
+  },
+  {
+    "id": "nextjs",
+    "canonical_name": "Next.js",
+    "category": "framework",
+    "subcategory": "web",
+    "aliases": [{"name": "nextjs", "lang": "en"}, {"name": "next.js", "lang": "en"}]
+  },
+  {
+    "id": "react",
+    "canonical_name": "React",
+    "category": "framework",
+    "subcategory": "web",
+    "aliases": [{"name": "react", "lang": "en"}, {"name": "reactjs", "lang": "en"}]
+  },
+  {
+    "id": "pytorch",
+    "canonical_name": "PyTorch",
+    "category": "framework",
+    "subcategory": "ml",
+    "aliases": [{"name": "pytorch", "lang": "en"}, {"name": "torch", "lang": "en"}]
+  },
+  {
+    "id": "tensorflow",
+    "canonical_name": "TensorFlow",
+    "category": "framework",
+    "subcategory": "ml",
+    "aliases": [{"name": "tensorflow", "lang": "en"}, {"name": "tf", "lang": "en"}]
+  },
+  {
+    "id": "huggingface",
+    "canonical_name": "Hugging Face",
+    "category": "tool",
+    "subcategory": "ml",
+    "aliases": [{"name": "huggingface", "lang": "en"}, {"name": "hugging face", "lang": "en"}, {"name": "transformers", "lang": "en"}]
+  },
+  {
+    "id": "aws",
+    "canonical_name": "AWS",
+    "category": "cloud",
+    "subcategory": "cloud_provider",
+    "aliases": [{"name": "aws", "lang": "en"}, {"name": "amazon web services", "lang": "en"}]
+  },
+  {
+    "id": "azure",
+    "canonical_name": "Azure",
+    "category": "cloud",
+    "subcategory": "cloud_provider",
+    "aliases": [{"name": "azure", "lang": "en"}, {"name": "microsoft azure", "lang": "en"}]
+  },
+  {
+    "id": "gcp",
+    "canonical_name": "Google Cloud",
+    "category": "cloud",
+    "subcategory": "cloud_provider",
+    "aliases": [{"name": "gcp", "lang": "en"}, {"name": "google cloud", "lang": "en"}]
+  },
+  {
+    "id": "aliyun",
+    "canonical_name": "Alibaba Cloud",
+    "category": "cloud",
+    "subcategory": "cloud_provider",
+    "aliases": [{"name": "alibaba cloud", "lang": "en"}, {"name": "aliyun", "lang": "en"}, {"name": "阿里云", "lang": "zh"}]
+  },
+  {
+    "id": "tongyi_qianwen",
+    "canonical_name": "Tongyi Qianwen",
+    "category": "tool",
+    "subcategory": "llm_provider",
+    "aliases": [{"name": "tongyi qianwen", "lang": "en"}, {"name": "qwen", "lang": "en"}, {"name": "通义千问", "lang": "zh"}]
+  },
+  {
+    "id": "wenxin_yiyan",
+    "canonical_name": "ERNIE Bot",
+    "category": "tool",
+    "subcategory": "llm_provider",
+    "aliases": [{"name": "ernie bot", "lang": "en"}, {"name": "wenxin", "lang": "en"}, {"name": "文心一言", "lang": "zh"}]
+  },
+  {
+    "id": "deepseek",
+    "canonical_name": "DeepSeek",
+    "category": "tool",
+    "subcategory": "llm_provider",
+    "aliases": [{"name": "deepseek", "lang": "en"}]
+  },
+  {
+    "id": "mcp",
+    "canonical_name": "Model Context Protocol",
+    "category": "concept",
+    "subcategory": "core_ai",
+    "aliases": [{"name": "mcp", "lang": "en"}, {"name": "model context protocol", "lang": "en"}]
+  },
+  {
+    "id": "vercel_ai_sdk",
+    "canonical_name": "Vercel AI SDK",
+    "category": "framework",
+    "subcategory": "agent_framework",
+    "aliases": [{"name": "vercel ai sdk", "lang": "en"}, {"name": "ai sdk", "lang": "en"}]
+  },
+  {
+    "id": "semantic_kernel",
+    "canonical_name": "Semantic Kernel",
+    "category": "framework",
+    "subcategory": "agent_framework",
+    "aliases": [{"name": "semantic kernel", "lang": "en"}]
+  },
+  {
+    "id": "embedding",
+    "canonical_name": "Text Embedding",
+    "category": "concept",
+    "subcategory": "core_ai",
+    "aliases": [{"name": "embedding", "lang": "en"}, {"name": "text embedding", "lang": "en"}, {"name": "向量化", "lang": "zh"}, {"name": "文本嵌入", "lang": "zh"}]
+  },
+  {
+    "id": "knowledge_graph",
+    "canonical_name": "Knowledge Graph",
+    "category": "concept",
+    "subcategory": "data_infra",
+    "aliases": [{"name": "knowledge graph", "lang": "en"}, {"name": "知识图谱", "lang": "zh"}]
+  },
+  {
+    "id": "nlp",
+    "canonical_name": "Natural Language Processing",
+    "category": "concept",
+    "subcategory": "ml",
+    "aliases": [{"name": "nlp", "lang": "en"}, {"name": "natural language processing", "lang": "en"}, {"name": "自然语言处理", "lang": "zh"}]
+  },
+  {
+    "id": "mlops",
+    "canonical_name": "MLOps",
+    "category": "concept",
+    "subcategory": "devops",
+    "aliases": [{"name": "mlops", "lang": "en"}, {"name": "ml ops", "lang": "en"}]
+  },
+  {
+    "id": "ci_cd",
+    "canonical_name": "CI/CD",
+    "category": "concept",
+    "subcategory": "devops",
+    "aliases": [{"name": "ci/cd", "lang": "en"}, {"name": "cicd", "lang": "en"}, {"name": "持续集成", "lang": "zh"}]
+  },
+  {
+    "id": "redis",
+    "canonical_name": "Redis",
+    "category": "tool",
+    "subcategory": "data_infra",
+    "aliases": [{"name": "redis", "lang": "en"}]
+  }
+]
